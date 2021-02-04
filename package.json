@@ -1,0 +1,17 @@
+{
+  "name": "vuln-test-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp-sass": "4.0.1",
+    "protractor": "6.0.0",
+    "showdown": "1.9.0",
+    "yargs": "13.1.2"
+  }
+}

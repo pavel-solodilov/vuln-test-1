@@ -1,0 +1,15 @@
+{
+  "name": "vuln-test-proj1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp-sass": "4.0.1",
+    "gulp-environment": "1.5.2"
+  }
+}
